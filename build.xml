@@ -1,7 +1,7 @@
 <project default="build">
 
 	<property name="product.jar" value="Product.jar" />
-	<property name="main.class" value="simulator.Simulator" />
+	<property name="main.class" value="piglatin.PigLatin" />
 	<property name="cp.lib" value="lib/hamcrest-core-1.3.jar:lib/junit-4.12.jar" />
 
 	<target name="build">
